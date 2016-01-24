@@ -1,2 +1,3 @@
 # alyssaennis.com 
-bbq-pizza initial repository
+bbq-pizza initial repository.
+Testing auto-deploy hook
